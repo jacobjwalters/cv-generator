@@ -1,0 +1,109 @@
+# It should go without saying, but the following is a fictional CV.
+
+about:
+  name: Carrie culumvitae
+  phone: 07123 456 789
+  address: Sodor, UK
+  email: email-address@domain.tld
+  summary: Describe yourself here.
+
+education:
+  - include: yes
+    name: BSc. (Hons) Applied Functors, University of Education
+    start: Sept. 2020
+    end: Present
+    role: Fourth year student, graduating in July 2024.
+    description:
+      - Taking a variety of interdisciplinary courses, focused on real-world applications of functors.
+      - >
+        Relevant modules include:
+          Category Theory for Yak Shaving;
+          Renotational Pedantics;
+          Cheminformatics for Baristas.
+      - "Undergraduate Dissertation: Constructing an Ivory Tower, supervised by Dr. E. G. Semple."
+
+research:
+  - include: yes
+    name: Research Group, University of Education
+    start: June 2022
+    end: August 2022
+    role: Junior Research Assistant
+    description:
+      - Worked on a variety of research papers.
+      - Presented a poster.
+
+teaching:
+  - include: yes
+    name: University of Education
+    start: Sept. 2022
+    end: Dec. 2022
+    role: Tutor and Marker
+    description:
+      - Delivered tutorials on learning in tutorials.
+      - Marked and graded weekly submissions, giving detailed feedback and corrections both online and in person.
+
+industry:
+  - include: no  # This one is sensitive!
+    name: Acme Missiles
+    start: Oct. 2023
+    end: Present
+    location: Istanbul, Turkey
+    role: 
+    description:
+      - Compiler tooling.
+  
+  - include: yes
+    name: IOHK
+    start: July 2023
+    end: Sept. 2023
+    location: Remote
+    role: Formal Methods Intern
+    description:
+      - Developed \link{https://github.com/DeltaQ-SD}{Haskell and Jupyter tooling} for symbolic performance complexity analysis
+        of distributed systems.
+      - Discovered and rectified bugs in a piecewise polynomial library, adopting it as the underlying representation for improved
+        efficiency in the tooling.
+      - Implemented property tests to verify the tooling preserved known properties of the symbolic algebra.
+
+volunteering:
+  - include: yes
+    name: Open Source Contributions
+    start: Nov. 2001
+    end: Present
+    role: Thankless Maintainer
+    description:
+      - Developed and maintained tooling for auto-generating CVs from YAML files.
+
+posters:
+  - include: yes
+    authors: Culumvitae, C.; Semple, E. G.
+    date: "2023"
+    title: Towards a poster design for academic conferences
+    description: Poster presented at the 2023 Conference on Posters.
+
+awards:
+  - include: yes
+    name: Award on Being Awarded an Award (2023)
+
+skills:
+  technical:
+    languages:
+      - YAML
+      - Python
+      - LaTeX
+      
+    other:
+      - Knowledge of myself.
+      - Creation of example files.
+      
+  soft:
+    - No interpersonal skills, on account of not being real.
+  
+conferences:
+  - include: yes
+    name: Conference on Attending Conferences (CAC)
+    location: London, UK
+    date: Jan. 2024
+    role: Attendee
+
+references: Available upon request.
